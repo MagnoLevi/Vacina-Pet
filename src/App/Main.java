@@ -18,7 +18,7 @@ public class Main {
         EspecieDAO eDAO = new EspecieDAO();
         RacaDAO rDAO = new RacaDAO();
         CidadeDAO cDAO = new CidadeDAO();
-        EnderecoDAO enDAO = new EnderecoDAO();
+        EnderecoDAO enDAO = new EnderecoDAO(); 
         TutorDAO tDAO = new TutorDAO();
         TelefoneDAO teDAO = new TelefoneDAO();
         AnimalDAO animalDAO = new AnimalDAO();
